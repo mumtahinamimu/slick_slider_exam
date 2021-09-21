@@ -1,0 +1,31 @@
+.heading_text a{
+	text-decoration: none;
+	color: #1c6da2;
+}
+
+section{
+	padding: 50px 0;
+}
+
+
+.syncing_slider{
+	background-color: #3598db;
+}
+
+/*slider-for*/
+.slider-for{
+	margin-bottom: 40px;
+	padding: 45px 0;
+	font-size: 30px;
+	background-color: white;
+	color: #3598db;
+}
+
+/*slider-nav*/
+.slider-nav h2{
+	margin: 0 20px;
+	padding: 45px 0;
+	font-size: 30px;
+	background-color: white;
+	color: #3598db;
+}
